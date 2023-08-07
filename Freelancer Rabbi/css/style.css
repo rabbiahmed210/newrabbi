@@ -1,0 +1,186 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    list-style-type: none;
+    margin: none;
+}
+img{
+    width: 250px;
+    height: auto;
+}
+
+
+
+.flex-canter{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-space-canter{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.flex-space-canter2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #0075c5;
+   
+}
+.hed-item{
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
+body{
+    background-color: #0075c5;
+}
+.hed-img{
+    background-color: ;
+}
+.hed-itm{
+    background-color: ;
+    width: 900px;
+    color: white;
+}
+li{
+    float: left;
+    padding: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.hed-item :hover{
+    background-color: rgb(235, 12, 31);
+    border-radius: 0.3rem;
+}
+.logo-hd{
+    width: 400px;
+}
+
+a{
+    color: aliceblue;
+
+}
+
+.heder-talk{
+    background-color: #f34e0c;
+    border-radius: 0.3rem;
+}
+/*heder end */
+
+.fooder_lst{
+    background-color: #005792;
+}
+.fooder-title{
+    color: aliceblue;
+    padding: 21px;
+    padding-left: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+
+span {
+    background-color: rgb(231, 32, 32);
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 0.3rem;
+}
+
+.span1:hover {
+    background-color: rgb(243, 241, 241);
+    
+    padding: 10px;
+    border-radius: 0.3rem;
+    color: black;
+    padding-top: none;
+}
+
+/*fooder end */
+
+.setion-container{
+    background-color: rgb(235, 230, 221);
+}
+
+/*section1 st here */
+.sction-img{
+    margin: 30px ;
+    margin-left: 150px;
+    border: 5px solid rgb(226, 173, 25);
+    display: inline;
+    float: left;
+    width: 260px;
+    margin-top: 100px;
+    border-radius: 0.3rem;
+    
+}
+
+.section-title{
+    height: 700px;
+}
+
+.section-title{
+     border: ;
+}
+.s-1{
+    padding-right: 600px;
+}
+h4{
+    color: orange;
+    font-size: 15px;
+    transform: initial;
+    
+    padding-top: 120px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+h1{
+    font-size: 70px;
+    color: #e0a911;
+    padding-bottom: 2px;
+}
+.flex-space-canter3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ffffff;
+
+
+}
+
+#sction_titile{
+    color: #483d8b;
+    font-size: 30px;
+}
+#sction_titile2{
+    color: #483d8b;
+    font-size: 60px;
+}
+
+.sction-pera{
+    color: #7851a9;
+    font-size: 20px;
+}
+.sction-button{
+    background-color: #e0a911;
+    border-radius: 0.3rem;
+    padding: 10px;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    cursor: pointer;
+}
+.sction-button:hover{
+    background-color: #f34e0c;
+    border-radius: 0.3rem;
+    padding: 10px;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
